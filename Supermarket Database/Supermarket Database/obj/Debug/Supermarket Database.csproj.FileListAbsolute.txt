@@ -1,0 +1,7 @@
+C:\Files\SoftUni Exercises\Supermarket Database\Supermarket Database\bin\Debug\Supermarket Database.exe.config
+C:\Files\SoftUni Exercises\Supermarket Database\Supermarket Database\bin\Debug\Supermarket Database.exe
+C:\Files\SoftUni Exercises\Supermarket Database\Supermarket Database\bin\Debug\Supermarket Database.pdb
+C:\Files\SoftUni Exercises\Supermarket Database\Supermarket Database\obj\Debug\Supermarket Database.csprojResolveAssemblyReference.cache
+C:\Files\SoftUni Exercises\Supermarket Database\Supermarket Database\obj\Debug\Supermarket Database.csproj.CoreCompileInputs.cache
+C:\Files\SoftUni Exercises\Supermarket Database\Supermarket Database\obj\Debug\Supermarket Database.exe
+C:\Files\SoftUni Exercises\Supermarket Database\Supermarket Database\obj\Debug\Supermarket Database.pdb
