@@ -1,0 +1,7 @@
+C:\Files\SoftUni Exercises\Hotel\Hotel\bin\Debug\Hotel.exe.config
+C:\Files\SoftUni Exercises\Hotel\Hotel\bin\Debug\Hotel.exe
+C:\Files\SoftUni Exercises\Hotel\Hotel\bin\Debug\Hotel.pdb
+C:\Files\SoftUni Exercises\Hotel\Hotel\obj\Debug\Hotel.csprojResolveAssemblyReference.cache
+C:\Files\SoftUni Exercises\Hotel\Hotel\obj\Debug\Hotel.csproj.CoreCompileInputs.cache
+C:\Files\SoftUni Exercises\Hotel\Hotel\obj\Debug\Hotel.exe
+C:\Files\SoftUni Exercises\Hotel\Hotel\obj\Debug\Hotel.pdb
